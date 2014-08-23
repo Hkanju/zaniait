@@ -1,4 +1,4 @@
-<section id="bottom" class="">
+<section id="bottom" class="" style="background:#034D7F">
     <div class="container bottom"> 
     	<div class="row-fluid ">
             <div class="span3">
