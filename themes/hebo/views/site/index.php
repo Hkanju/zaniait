@@ -9,7 +9,14 @@
             </div>
             
             <div class="item" style=" min-height:430px;">
-              <img src="<?php echo Yii::app()->theme->baseUrl;?>/img/slider/flickr/s12n.jpg" width="2500" height="2500" />
+              <img src="<?php echo Yii::app()->theme->baseUrl;?>/img/slider/flickr/bulk.jpg" width="2500" height="2500" />
+            </div>
+
+            <div class="item" style=" min-height:430px;">
+              <img src="<?php echo Yii::app()->theme->baseUrl;?>/img/slider/flickr/soft_dev.jpg" width="2500" height="2500" />
+            </div>
+            <div class="item" style=" min-height:430px;">
+              <img src="<?php echo Yii::app()->theme->baseUrl;?>/img/slider/flickr/web_host1.jpg" width="2500" height="2500" />
             </div>
           </div>
           <!-- Carousel nav -->

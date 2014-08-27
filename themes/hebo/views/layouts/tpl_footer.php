@@ -13,7 +13,8 @@
             	<h5>Blog roll</h5>
             	<ul class="list-blog-roll">
                     <li>
-                    	<p>will be here!</p>
+                        blog inforamtions </br>
+                    	will be here!</br>
                     </li>
                     <!--
                     <li>
@@ -87,7 +88,7 @@
 <footer>
     <div class="footer">
         <div class="container">
-        	Copyright &copy; 2014. By zaniaIT Solutions.
+        	Copyright &copy; 2014. By zaniaIT Solutions(T)LTD.
         </div>
 	</div>
 </footer>

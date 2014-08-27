@@ -2,7 +2,7 @@
 <div class="row-fluid">
 
   <div class="span6">
-		<a href="" class="logo"></a>
+		<a href="http://localhost/zaniait/index.php?r=site/index&view=index" class="logo"></a>
   </div><!--/.span6 -->
   
   <div class="span6">
